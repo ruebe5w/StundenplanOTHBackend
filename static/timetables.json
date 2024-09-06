@@ -1,0 +1,3480 @@
+{
+    "MP": {
+        "MP": [
+            {
+                "tag": 1,
+                "name": "APD",
+                "longname": "",
+                "dozent": "Meiller",
+                "raum": "EMI102",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "DC",
+                "longname": "",
+                "dozent": "Peterh\u00e4nsel",
+                "raum": "EMI109",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "A3DA",
+                "longname": "",
+                "dozent": "Peterh\u00e4nsel",
+                "raum": "EMI109",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "APD",
+                "longname": "",
+                "dozent": "Meiller",
+                "raum": "EMI111",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "KUK",
+                "longname": "",
+                "dozent": "Kock",
+                "raum": "online",
+                "startBlock": 5,
+                "endBlock": 6,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "CS",
+                "longname": "",
+                "dozent": "Loebenberger",
+                "raum": "EMI108",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "HPA",
+                "longname": "",
+                "dozent": "Kock",
+                "raum": "online",
+                "startBlock": 5,
+                "endBlock": 6,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "NLP",
+                "longname": "",
+                "dozent": "Bergler",
+                "raum": "DC107",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "NLP",
+                "longname": "",
+                "dozent": "Bergler",
+                "raum": "EMI311",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "WF",
+                "longname": "",
+                "dozent": "M\u00fcller",
+                "raum": "EMI311",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "BLOCK",
+                "longname": "",
+                "dozent": "M\u00fcller",
+                "raum": "nachAbsprache",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": "Masterseminar"
+            },
+            {
+                "tag": 5,
+                "name": "BLOCK",
+                "longname": "",
+                "dozent": "L\u00f6hr",
+                "raum": "EMI305,EMI306,EMI3",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": "Studioproduktion"
+            }
+        ]
+    },
+    "MKI": {
+        "MKI": [
+            {
+                "tag": 1,
+                "name": "BDT",
+                "longname": "",
+                "dozent": "Neumann",
+                "raum": "EMI013",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "DRL",
+                "longname": "",
+                "dozent": "Nierhoff",
+                "raum": "EMI102",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "MBE",
+                "longname": "",
+                "dozent": "Zatocil",
+                "raum": "MBUT224,EMI013",
+                "startBlock": 5,
+                "endBlock": 6,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MAL",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "DC107",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MDIA",
+                "longname": "",
+                "dozent": "Wiehl",
+                "raum": "EMI102",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "CS",
+                "longname": "",
+                "dozent": "Loebenberger",
+                "raum": "EMI108",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "AML",
+                "longname": "",
+                "dozent": "Bergler",
+                "raum": "EMI214",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "TVS",
+                "longname": "",
+                "dozent": "P\u00f6sl",
+                "raum": "EMI210,EMI013",
+                "startBlock": 5,
+                "endBlock": 6,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "NLP",
+                "longname": "",
+                "dozent": "Bergler",
+                "raum": "DC107",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "NLP",
+                "longname": "",
+                "dozent": "Bergler",
+                "raum": "EMI311",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "AVR",
+                "longname": "",
+                "dozent": "Pirkl",
+                "raum": "EMI202",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "AVR",
+                "longname": "",
+                "dozent": "Pirkl",
+                "raum": "DC107",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "MDL",
+                "longname": "",
+                "dozent": "Bergler",
+                "raum": "DC107",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "DSF",
+                "longname": "",
+                "dozent": "Ortmann",
+                "raum": "EMI113",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            }
+        ]
+    },
+    "MAI": {
+        "MAI": [
+            {
+                "tag": 1,
+                "name": "NLPE",
+                "longname": "",
+                "dozent": "Levi",
+                "raum": "MBUT224",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "DRL",
+                "longname": "",
+                "dozent": "Nierhoff",
+                "raum": "EMI102",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MDNE",
+                "longname": "",
+                "dozent": "Wiehl",
+                "raum": "MBUT224",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "AIPR",
+                "longname": "",
+                "dozent": "Bergler",
+                "raum": "EMI102",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "AML",
+                "longname": "",
+                "dozent": "Bergler",
+                "raum": "EMI214",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MALE",
+                "longname": "",
+                "dozent": "Levi",
+                "raum": "EMI002,MBUT124",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "AVR",
+                "longname": "",
+                "dozent": "Pirkl",
+                "raum": "EMI202",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "AVR",
+                "longname": "",
+                "dozent": "Pirkl",
+                "raum": "DC107",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MDNE",
+                "longname": "",
+                "dozent": "Pirkl",
+                "raum": "MBUT124",
+                "startBlock": 5,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "EMAI",
+                "longname": "",
+                "dozent": "Lechner",
+                "raum": "MBUT124",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            }
+        ],
+        "MAI_BC": [
+            {
+                "tag": 2,
+                "name": "ICG",
+                "longname": "",
+                "dozent": "J\u00fcntgen",
+                "raum": "MBUTE24",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "SWP",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "PK1",
+                "longname": "",
+                "dozent": "Nierhoff",
+                "raum": "MBUT224",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            }
+        ]
+    },
+    "IA": {
+        "IA": [
+            {
+                "tag": 1,
+                "name": "BDT",
+                "longname": "",
+                "dozent": "Neumann",
+                "raum": "EMI013",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "REA",
+                "longname": "",
+                "dozent": "Zatocil",
+                "raum": "EMI013",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "MBE",
+                "longname": "",
+                "dozent": "Zatocil",
+                "raum": "MBUT224,EMI013",
+                "startBlock": 5,
+                "endBlock": 6,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "DSE",
+                "longname": "",
+                "dozent": "Raab, Saffert",
+                "raum": "EMI102,EMI010",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MAL",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "DC107",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MDIA",
+                "longname": "",
+                "dozent": "Wiehl",
+                "raum": "EMI102",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "CS",
+                "longname": "",
+                "dozent": "Loebenberger",
+                "raum": "EMI108",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "DSE",
+                "longname": "",
+                "dozent": "Raab, Saffert",
+                "raum": "EMI202,EMI010",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "TVS",
+                "longname": "",
+                "dozent": "P\u00f6sl",
+                "raum": "EMI210,EMI013",
+                "startBlock": 5,
+                "endBlock": 6,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "NLP",
+                "longname": "",
+                "dozent": "Bergler",
+                "raum": "DC107",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "NLP",
+                "longname": "",
+                "dozent": "Bergler",
+                "raum": "EMI311",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "AVR",
+                "longname": "",
+                "dozent": "Pirkl",
+                "raum": "EMI202",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "AVR",
+                "longname": "",
+                "dozent": "Pirkl",
+                "raum": "DC107",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "ICK",
+                "longname": "",
+                "dozent": "Ortmann",
+                "raum": "EMI013",
+                "startBlock": 5,
+                "endBlock": 6,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "MDL",
+                "longname": "",
+                "dozent": "Bergler",
+                "raum": "DC107",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "DSF",
+                "longname": "",
+                "dozent": "Ortmann",
+                "raum": "EMI113",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            }
+        ]
+    },
+    "EDU": {
+        "EDU": [
+            {
+                "tag": 1,
+                "name": "PPA_VL",
+                "longname": "",
+                "dozent": "Wagner",
+                "raum": "EMI212",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "MAS",
+                "longname": "",
+                "dozent": "Riedl",
+                "raum": "MBUT319",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "DMA-A",
+                "longname": "",
+                "dozent": "Riedl",
+                "raum": "MBUT319",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "WIMA",
+                "longname": "",
+                "dozent": "Riedl",
+                "raum": "MBUT319",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "EPF",
+                "longname": "",
+                "dozent": "Hommel",
+                "raum": "MBUT319",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "PUM",
+                "longname": "",
+                "dozent": "Winkler, Brittner",
+                "raum": "MBUT319",
+                "startBlock": 5,
+                "endBlock": 7,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "OA-A",
+                "longname": "",
+                "dozent": "H\u00f6sl",
+                "raum": "MBUT319",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MDA",
+                "longname": "",
+                "dozent": "Altieri",
+                "raum": "MBUT319",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "DF",
+                "longname": "",
+                "dozent": "Becker-Stoll, Cordes",
+                "raum": "MBUT319",
+                "startBlock": 1,
+                "endBlock": 4,
+                "notes": "Terminen.Abspr."
+            }
+        ]
+    },
+    "MT": {
+        "MT 1": [
+            {
+                "tag": 1,
+                "name": "MPT_VL",
+                "longname": "",
+                "dozent": "L\u00f6hr",
+                "raum": "Audimax",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "INF_MT_VL",
+                "longname": "",
+                "dozent": "Meiller",
+                "raum": "EMI313",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MA1_VL",
+                "longname": "",
+                "dozent": "Levi",
+                "raum": "EMI301",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "MLG_VL",
+                "longname": "",
+                "dozent": "Baumann",
+                "raum": "EMI313",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "INF_MT_Ue",
+                "longname": "",
+                "dozent": "Steindl",
+                "raum": "MBUT124",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "INF_MT_Ue",
+                "longname": "",
+                "dozent": "Meiller",
+                "raum": "MBUT124",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "EMP",
+                "longname": "",
+                "dozent": "Taylor",
+                "raum": "EMI214",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MA1_VL",
+                "longname": "",
+                "dozent": "Levi",
+                "raum": "EMI313",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MA1_Ue",
+                "longname": "",
+                "dozent": "Levi",
+                "raum": "EMI313",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MA1_Ue_Z",
+                "longname": "",
+                "dozent": "Levi",
+                "raum": "nachAbsprache",
+                "startBlock": 5,
+                "endBlock": 5,
+                "notes": ""
+            }
+        ],
+        "MT 3": [
+            {
+                "tag": 1,
+                "name": "BIF",
+                "longname": "",
+                "dozent": "Breunig",
+                "raum": "EMI305,EMI306,EMI3",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "CE_VL",
+                "longname": "",
+                "dozent": "Thiermeyer",
+                "raum": "EMI313",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "AVM_VL",
+                "longname": "",
+                "dozent": "L\u00f6hr",
+                "raum": "EMI313",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "VFX",
+                "longname": "",
+                "dozent": "Baumann",
+                "raum": "EMI212",
+                "startBlock": 6,
+                "endBlock": 7,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "DBB_VL",
+                "longname": "",
+                "dozent": "Peterh\u00e4nsel",
+                "raum": "EMI313",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "NF",
+                "longname": "",
+                "dozent": "M\u00fcller",
+                "raum": "EMI313",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "GCM",
+                "longname": "",
+                "dozent": "Frey",
+                "raum": "EMI008",
+                "startBlock": 6,
+                "endBlock": 7,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "AP_VL",
+                "longname": "",
+                "dozent": "AP_Pr",
+                "raum": "Kock",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": "Kock"
+            },
+            {
+                "tag": 4,
+                "name": "EMG",
+                "longname": "",
+                "dozent": "Kock",
+                "raum": "online",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "AP_Pr",
+                "longname": "",
+                "dozent": "Kock",
+                "raum": "EMI307,EMI309,EMI3",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "LAY",
+                "longname": "",
+                "dozent": "M\u00fcller",
+                "raum": "EMI212",
+                "startBlock": 6,
+                "endBlock": 7,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "BLOCK",
+                "longname": "",
+                "dozent": "He\u00df",
+                "raum": "nachAbsprache",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": "Videoschnitt"
+            }
+        ],
+        "MT 5": [
+            {
+                "tag": 5,
+                "name": "BLOCK",
+                "longname": "",
+                "dozent": "M\u00fcller",
+                "raum": "nachAbsprache",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": "Praxisseminar"
+            }
+        ],
+        "MT 7": [
+            {
+                "tag": 1,
+                "name": "BIF",
+                "longname": "",
+                "dozent": "Breunig",
+                "raum": "EMI305,EMI306,EMI3",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "VFX",
+                "longname": "",
+                "dozent": "Baumann",
+                "raum": "EMI212",
+                "startBlock": 6,
+                "endBlock": 7,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "CTV",
+                "longname": "",
+                "dozent": "Breunig",
+                "raum": "EMI305,EMI306,EMI3",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "AMD",
+                "longname": "",
+                "dozent": "Baumann",
+                "raum": "EMI002",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "KRB",
+                "longname": "",
+                "dozent": "Breunig",
+                "raum": "EMI305,EMI306,EMI3",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "GCM",
+                "longname": "",
+                "dozent": "Frey",
+                "raum": "EMI008",
+                "startBlock": 6,
+                "endBlock": 7,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "BAS",
+                "longname": "",
+                "dozent": "Altieri",
+                "raum": "online",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "EMG",
+                "longname": "",
+                "dozent": "Kock",
+                "raum": "online",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "LAY",
+                "longname": "",
+                "dozent": "M\u00fcller",
+                "raum": "EMI212",
+                "startBlock": 6,
+                "endBlock": 7,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "BLOCK",
+                "longname": "",
+                "dozent": "He\u00df",
+                "raum": "nachAbsprache",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": "Videoschnitt"
+            },
+            {
+                "tag": 5,
+                "name": "BLOCK",
+                "longname": "",
+                "dozent": "Kirschner",
+                "raum": "nachAbsprache",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": "BWL&PM"
+            }
+        ]
+    },
+    "MI": {
+        "MI 1": [
+            {
+                "tag": 1,
+                "name": "MA1_Ue",
+                "longname": "",
+                "dozent": "Sch\u00f6ler-Niewiera",
+                "raum": "EMI102",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "PGM1_VL",
+                "longname": "",
+                "dozent": "P\u00f6sl",
+                "raum": "EMI301",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "PGM1_Pr",
+                "longname": "",
+                "dozent": "P\u00f6sl, Mandel",
+                "raum": "MBUT124,EMI301, EMI301",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "PGM1_Pr",
+                "longname": "",
+                "dozent": "P\u00f6sl, Mandel",
+                "raum": "MBUT124",
+                "startBlock": 5,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "MA1_Ue_Z",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "nachAbsprache",
+                "startBlock": 6,
+                "endBlock": 6,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MA1_VL",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "EMI311",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "GDS",
+                "longname": "",
+                "dozent": "P\u00f6sl",
+                "raum": "Audimax",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "PGM1_Pr",
+                "longname": "",
+                "dozent": "P\u00f6sl, Mandel",
+                "raum": "MBUT124",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "INTT",
+                "longname": "",
+                "dozent": "Nierhoff",
+                "raum": "EMI002",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "DPDM_VL",
+                "longname": "",
+                "dozent": "Frey",
+                "raum": "EMI214",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "DPDM_Pr",
+                "longname": "",
+                "dozent": "Frey",
+                "raum": "EMI008",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "THI_VL",
+                "longname": "",
+                "dozent": "Loebenberger",
+                "raum": "EMI301",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "THI_Ue",
+                "longname": "",
+                "dozent": "Graf",
+                "raum": "EMI301",
+                "startBlock": 5,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MA1_VL",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "EMI202",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "DPDM_Pr",
+                "longname": "",
+                "dozent": "Frey",
+                "raum": "EMI008",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            }
+        ],
+        "MI 3": [
+            {
+                "tag": 1,
+                "name": "AUD",
+                "longname": "",
+                "dozent": "P\u00f6sl",
+                "raum": "MBUT124,EMI113",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "DA_VL",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "EMI113",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "GCK",
+                "longname": "",
+                "dozent": "Bauer",
+                "raum": "EMI202",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": "ZweiteSemester-"
+            },
+            {
+                "tag": 2,
+                "name": "AUD",
+                "longname": "",
+                "dozent": "P\u00f6sl",
+                "raum": "MBUT124,EMI113",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "SWE_Pr",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MG",
+                "longname": "",
+                "dozent": "Frey",
+                "raum": "EMI214",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "SWE1",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210,EMI301",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "SWE_Pr",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "GCK",
+                "longname": "",
+                "dozent": "Ortmann",
+                "raum": "EMI301",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": "ErsteSemester-"
+            },
+            {
+                "tag": 4,
+                "name": "SWE1",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210,EMI313",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "GCK",
+                "longname": "",
+                "dozent": "Ortmann",
+                "raum": "EMI013",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": "ErsteSemester-"
+            },
+            {
+                "tag": 4,
+                "name": "DA_Pr",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "MBUT124",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "CNW",
+                "longname": "",
+                "dozent": "S\u00f6llner, Sch\u00f6ler-Niewiera",
+                "raum": "Audimax",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            }
+        ],
+        "MI 7": [
+            {
+                "tag": 1,
+                "name": "CV_Pr",
+                "longname": "",
+                "dozent": "Ivanovska, Kestler",
+                "raum": "MBUT124",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "CV_VL",
+                "longname": "",
+                "dozent": "Ivanovska",
+                "raum": "EMI113",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "BAS",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI002",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "APPP",
+                "longname": "",
+                "dozent": "Sch\u00e4fer",
+                "raum": "DC107",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "INFSEC",
+                "longname": "",
+                "dozent": "Hirsch",
+                "raum": "EMI102",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "BLOCK",
+                "longname": "",
+                "dozent": "Neumann",
+                "raum": "EMI311",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": "CertifiedTester&"
+            }
+        ]
+    },
+    "IK": {
+        "IK 2": [
+            {
+                "tag": 1,
+                "name": "EKM",
+                "longname": "",
+                "dozent": "Heckmann",
+                "raum": "EMI311",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "MA1_Ue",
+                "longname": "",
+                "dozent": "Sch\u00f6ler-Niewiera",
+                "raum": "EMI311",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "INF",
+                "longname": "",
+                "dozent": "Wiehl",
+                "raum": "EMI311",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "MA1_Ue_Z",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "nachAbsprache",
+                "startBlock": 6,
+                "endBlock": 6,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MA1_VL",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "EMI311",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "SK1",
+                "longname": "",
+                "dozent": "Heckmann",
+                "raum": "MBUT224",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "BWI",
+                "longname": "",
+                "dozent": "Tiefel",
+                "raum": "MBUT221",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MA1_VL",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "EMI202",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "PK1",
+                "longname": "",
+                "dozent": "Nierhoff",
+                "raum": "MBUT224",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            }
+        ],
+        "IK 4": [
+            {
+                "tag": 2,
+                "name": "AUD",
+                "longname": "",
+                "dozent": "Neumann",
+                "raum": "EMI214",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MA3_VL",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI002",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MA3_Ue",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI311",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "SWE1",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210,EMI301",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "PK3",
+                "longname": "",
+                "dozent": "Neumann",
+                "raum": "EMI113",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "SWE1",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210,EMI313",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "SWE_Pr",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MA3_VL",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI013",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "SWE_Pr",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "CNW",
+                "longname": "",
+                "dozent": "S\u00f6llner, Sch\u00f6ler-Niewiera",
+                "raum": "Audimax",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "DAT",
+                "longname": "",
+                "dozent": "Bergler",
+                "raum": "DC107",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            }
+        ],
+        "IK6": [
+            {
+                "tag": 2,
+                "name": "KSS",
+                "longname": "",
+                "dozent": "Heckmann",
+                "raum": "online",
+                "startBlock": 6,
+                "endBlock": 6,
+                "notes": ""
+            }
+        ]
+    },
+    "KI": {
+        "KI 1": [
+            {
+                "tag": 1,
+                "name": "EKM",
+                "longname": "",
+                "dozent": "Heckmann",
+                "raum": "EMI311",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "MA1_Ue",
+                "longname": "",
+                "dozent": "Sch\u00f6ler-Niewiera",
+                "raum": "EMI311",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "INF",
+                "longname": "",
+                "dozent": "Wiehl",
+                "raum": "EMI311",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "MA1_Ue_Z",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "nachAbsprache",
+                "startBlock": 6,
+                "endBlock": 6,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MA1_VL",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "EMI311",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "SK1",
+                "longname": "",
+                "dozent": "Heckmann",
+                "raum": "MBUT224",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "BWI",
+                "longname": "",
+                "dozent": "Tiefel",
+                "raum": "MBUT221",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MA1_VL",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "EMI202",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "PK1",
+                "longname": "",
+                "dozent": "Nierhoff",
+                "raum": "MBUT224",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            }
+        ],
+        "KI 3": [
+            {
+                "tag": 2,
+                "name": "AUD",
+                "longname": "",
+                "dozent": "Neumann",
+                "raum": "EMI214",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MA3_VL",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI002",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MA3_Ue",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI311",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "SWE1",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210,EMI301",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "PK3",
+                "longname": "",
+                "dozent": "Neumann",
+                "raum": "EMI113",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "SWE1",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210,EMI313",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "SWE_Pr",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MA3_VL",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI013",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "SWE_Pr",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "CNW",
+                "longname": "",
+                "dozent": "S\u00f6llner, Sch\u00f6ler-Niewiera",
+                "raum": "Audimax",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "DAT",
+                "longname": "",
+                "dozent": "Bergler",
+                "raum": "DC107",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            }
+        ],
+        "KI 5": [
+            {
+                "tag": 2,
+                "name": "KSS",
+                "longname": "",
+                "dozent": "Heckmann",
+                "raum": "online",
+                "startBlock": 6,
+                "endBlock": 6,
+                "notes": ""
+            }
+        ],
+        "KI 7": [
+            {
+                "tag": 1,
+                "name": "SG",
+                "longname": "",
+                "dozent": "Meiller",
+                "raum": "EMI202",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "ITS",
+                "longname": "",
+                "dozent": "Riedl",
+                "raum": "MBUT319",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "BAS",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI002",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "CVI",
+                "longname": "",
+                "dozent": "Ivanovska",
+                "raum": "DC107",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "IRN",
+                "longname": "",
+                "dozent": "Sch\u00e4fer",
+                "raum": "DC107",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "BLOCK",
+                "longname": "",
+                "dozent": "Neumann",
+                "raum": "EMI311",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": "CertifiedTester&"
+            }
+        ]
+    },
+    "IPE": {
+        "IPE 1": [
+            {
+                "tag": 1,
+                "name": "ET1_VL",
+                "longname": "",
+                "dozent": "Raab",
+                "raum": "EMI214",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "ET1_Pr",
+                "longname": "",
+                "dozent": "Raab, Saffert",
+                "raum": "EMI110",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "WER",
+                "longname": "",
+                "dozent": "Hummich",
+                "raum": "EMI002",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "MFI1_VL",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI311",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "ET1_VL",
+                "longname": "",
+                "dozent": "Raab",
+                "raum": "EMI311",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "MFI1_Ue",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI013",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MFI1_VL",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI301",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MFI1_Ue",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI301",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MFI1_Ue_Z",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "nachAbsprache",
+                "startBlock": 7,
+                "endBlock": 7,
+                "notes": "Zusatz\u00fcbung"
+            },
+            {
+                "tag": 5,
+                "name": "BSPS",
+                "longname": "",
+                "dozent": "Hommel",
+                "raum": "MBUT206",
+                "startBlock": 1,
+                "endBlock": 4,
+                "notes": ""
+            }
+        ],
+        "IPE 3": [
+            {
+                "tag": 1,
+                "name": "AST",
+                "longname": "",
+                "dozent": "H\u00f6\u00df",
+                "raum": "EMI002",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "SDS",
+                "longname": "",
+                "dozent": "H\u00f6\u00df, Fuchs",
+                "raum": "EMI110",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MFI3_VL",
+                "longname": "",
+                "dozent": "Prinz",
+                "raum": "EMI013",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "ET3",
+                "longname": "",
+                "dozent": "S\u00f6llner",
+                "raum": "EMI102",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "INF2",
+                "longname": "",
+                "dozent": "Pirkl",
+                "raum": "MBUT224",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MFI3_Ue",
+                "longname": "",
+                "dozent": "Prinz",
+                "raum": "EMI002",
+                "startBlock": 5,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MADY",
+                "longname": "",
+                "dozent": "Sponheim",
+                "raum": "MBUT205",
+                "startBlock": 6,
+                "endBlock": 6,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "MFI3_VL",
+                "longname": "",
+                "dozent": "Prinz",
+                "raum": "EMI013",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "INF2",
+                "longname": "",
+                "dozent": "Pirkl",
+                "raum": "MBUT224",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "THI_VL",
+                "longname": "",
+                "dozent": "Loebenberger",
+                "raum": "EMI301",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "THI_Ue",
+                "longname": "",
+                "dozent": "Graf",
+                "raum": "EMI301",
+                "startBlock": 5,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "EBS1_VL",
+                "longname": "",
+                "dozent": "S\u00f6llner, Sch\u00f6ler-Niewiera",
+                "raum": "EMI113,EMI110",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "EBS1_Pr",
+                "longname": "",
+                "dozent": "S\u00f6llner, Sch\u00f6ler-Niewiera",
+                "raum": "EMI110",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MADY",
+                "longname": "",
+                "dozent": "Sponheim",
+                "raum": "MBUT205",
+                "startBlock": 6,
+                "endBlock": 6,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "DIG_VL",
+                "longname": "",
+                "dozent": "Raab",
+                "raum": "EMI013",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "DIG_Pr",
+                "longname": "",
+                "dozent": "Raab, Saffert",
+                "raum": "EMI010",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            }
+        ],
+        "IPE 5": [
+            {
+                "tag": 2,
+                "name": "SWE_Pr",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "SWE1",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210,EMI301",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "SWE_Pr",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "SWE1",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210,EMI313",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            }
+        ],
+        "IPE 7": [
+            {
+                "tag": 2,
+                "name": "BAS",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI002",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "BLPA",
+                "longname": "",
+                "dozent": "Hommel",
+                "raum": "MBUT116",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MS",
+                "longname": "",
+                "dozent": "Zatocil",
+                "raum": "EMI013",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "CNW",
+                "longname": "",
+                "dozent": "S\u00f6llner, Sch\u00f6ler-Niewiera",
+                "raum": "Audimax",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            }
+        ]
+    },
+    "II": {
+        "II 1": [
+            {
+                "tag": 1,
+                "name": "CPS1_Pr",
+                "longname": "",
+                "dozent": "Wiehl",
+                "raum": "DC107",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "PGM1_VL",
+                "longname": "",
+                "dozent": "P\u00f6sl",
+                "raum": "EMI301",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "PGM1_Pr",
+                "longname": "",
+                "dozent": "P\u00f6sl, Mandel",
+                "raum": "MBUT124,EMI301, EMI301",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "PGM1_Pr",
+                "longname": "",
+                "dozent": "P\u00f6sl, Mandel",
+                "raum": "MBUT124",
+                "startBlock": 5,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "MA1_Ue_Z",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "nachAbsprache",
+                "startBlock": 6,
+                "endBlock": 6,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MA1_VL",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "EMI311",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "GDS",
+                "longname": "",
+                "dozent": "P\u00f6sl",
+                "raum": "Audimax",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "PGM1_Pr",
+                "longname": "",
+                "dozent": "P\u00f6sl, Mandel",
+                "raum": "MBUT124",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "INTT",
+                "longname": "",
+                "dozent": "Nierhoff",
+                "raum": "EMI002",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "CPS1_VL",
+                "longname": "",
+                "dozent": "Wiehl",
+                "raum": "EMI313",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "THI_VL",
+                "longname": "",
+                "dozent": "Loebenberger",
+                "raum": "EMI301",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "THI_Ue",
+                "longname": "",
+                "dozent": "Graf",
+                "raum": "EMI301",
+                "startBlock": 5,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MA1_VL",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "EMI202",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MA1_Ue",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "EMI202",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            }
+        ],
+        "II 3": [
+            {
+                "tag": 1,
+                "name": "AUD",
+                "longname": "",
+                "dozent": "P\u00f6sl",
+                "raum": "MBUT124,EMI113",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "DA_VL",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "EMI113",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "GCK",
+                "longname": "",
+                "dozent": "Bauer",
+                "raum": "EMI202",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": "ZweiteSemester-"
+            },
+            {
+                "tag": 2,
+                "name": "AUD",
+                "longname": "",
+                "dozent": "P\u00f6sl",
+                "raum": "MBUT124,EMI113",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "SWE_Pr",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MA3_VL",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI002",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MA3_Ue",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI311",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "SWE1",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210,EMI301",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "SWE_Pr",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "GCK",
+                "longname": "",
+                "dozent": "Ortmann",
+                "raum": "EMI301",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": "ErsteSemester-"
+            },
+            {
+                "tag": 3,
+                "name": "PC",
+                "longname": "",
+                "dozent": "Frey, M\u00fcller",
+                "raum": "DC104",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "SWE1",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI210,EMI313",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "GCK",
+                "longname": "",
+                "dozent": "Ortmann",
+                "raum": "EMI013",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": "ErsteSemester-"
+            },
+            {
+                "tag": 4,
+                "name": "MA3_VL",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI013",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "DA_Pr",
+                "longname": "",
+                "dozent": "Brunner",
+                "raum": "MBUT124",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "CNW",
+                "longname": "",
+                "dozent": "S\u00f6llner, Sch\u00f6ler-Niewiera",
+                "raum": "Audimax",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            }
+        ],
+        "II 7": [
+            {
+                "tag": 1,
+                "name": "CV_Pr",
+                "longname": "",
+                "dozent": "Ivanovska, Kestler",
+                "raum": "MBUT124",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "CV_VL",
+                "longname": "",
+                "dozent": "Ivanovska",
+                "raum": "EMI113",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "BAS",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI002",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "EZB",
+                "longname": "",
+                "dozent": "Nierhoff",
+                "raum": "EMI002",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "FLT",
+                "longname": "",
+                "dozent": "Bl\u00f6chl",
+                "raum": "MBUT212",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "EZB",
+                "longname": "",
+                "dozent": "Nierhoff",
+                "raum": "EMI102",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "INFSEC",
+                "longname": "",
+                "dozent": "Hirsch",
+                "raum": "EMI102",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            }
+        ]
+    },
+    "GI": {
+        "GI 1": [
+            {
+                "tag": 1,
+                "name": "KARTO",
+                "longname": "",
+                "dozent": "Kreuziger",
+                "raum": "DC307",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "GR",
+                "longname": "",
+                "dozent": "Kreuziger",
+                "raum": "EMI202",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "PHY_VL",
+                "longname": "",
+                "dozent": "Prinz",
+                "raum": "EMI311",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "DIME",
+                "longname": "",
+                "dozent": "Mei\u00dfner",
+                "raum": "DC307",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "MFI1_VL",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI311",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "VK1_VL",
+                "longname": "",
+                "dozent": "Drescher",
+                "raum": "EMI113",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "GR",
+                "longname": "",
+                "dozent": "Kreuziger",
+                "raum": "EMI202",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "MFI1_Ue",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI013",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "PHY_VL",
+                "longname": "",
+                "dozent": "Prinz",
+                "raum": "EMI113",
+                "startBlock": 5,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MFI1_VL",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI301",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MFI1_Ue",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI301",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "VK1_VL",
+                "longname": "",
+                "dozent": "Drescher",
+                "raum": "EMI214",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "VK1_Ue",
+                "longname": "",
+                "dozent": "Drescher, Geitner",
+                "raum": "DC301",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MFI1_Ue_Z",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "nachAbsprache",
+                "startBlock": 7,
+                "endBlock": 7,
+                "notes": "Zusatz\u00fcbung"
+            }
+        ],
+        "GI 3": [
+            {
+                "tag": 2,
+                "name": "AGR",
+                "longname": "",
+                "dozent": "Kreuziger",
+                "raum": "DC307",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "GIS",
+                "longname": "",
+                "dozent": "Mei\u00dfner",
+                "raum": "DC307",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "RSA",
+                "longname": "",
+                "dozent": "Drescher",
+                "raum": "EMI113",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "INTT",
+                "longname": "",
+                "dozent": "Nierhoff",
+                "raum": "EMI002",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "LIEGR",
+                "longname": "",
+                "dozent": "Kronen",
+                "raum": "EMI202",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "RSA",
+                "longname": "",
+                "dozent": "Drescher",
+                "raum": "EMI102",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "AGR",
+                "longname": "",
+                "dozent": "Kreuziger",
+                "raum": "DC307",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "LIEGR",
+                "longname": "",
+                "dozent": "Hubmann",
+                "raum": "EMI311",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "GVIS",
+                "longname": "",
+                "dozent": "Mei\u00dfner",
+                "raum": "DC307",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "RORP",
+                "longname": "",
+                "dozent": "Bauer",
+                "raum": "DC307",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "RORP",
+                "longname": "",
+                "dozent": "Bauer",
+                "raum": "DC307",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            }
+        ],
+        "GI 7 - GI": [
+            {
+                "tag": 1,
+                "name": "CV_Pr",
+                "longname": "",
+                "dozent": "Ivanovska, Kestler",
+                "raum": "MBUT124",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "CV_VL",
+                "longname": "",
+                "dozent": "Ivanovska",
+                "raum": "EMI113",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "BAS",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI002",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "APPP",
+                "longname": "",
+                "dozent": "Sch\u00e4fer",
+                "raum": "DC107",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "INFSEC",
+                "longname": "",
+                "dozent": "Hirsch",
+                "raum": "EMI102",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            }
+        ],
+        "GI 7 - LM": [
+            {
+                "tag": 2,
+                "name": "BAS",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI002",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "GN",
+                "longname": "",
+                "dozent": "Drescher",
+                "raum": "EMI113,DC301",
+                "startBlock": 3,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "RM",
+                "longname": "",
+                "dozent": "Weber",
+                "raum": "EMI214",
+                "startBlock": 5,
+                "endBlock": 6,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "UN",
+                "longname": "",
+                "dozent": "Mei\u00dfner",
+                "raum": "DC307",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "GN",
+                "longname": "",
+                "dozent": "Drescher",
+                "raum": "EMI102,DC301",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            }
+        ]
+    },
+    "EI": {
+        "EI 1": [
+            {
+                "tag": 1,
+                "name": "ET1_VL",
+                "longname": "",
+                "dozent": "Raab",
+                "raum": "EMI214",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "PHY_VL",
+                "longname": "",
+                "dozent": "Levi",
+                "raum": "EMI214",
+                "startBlock": 3,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "ET1_Pr",
+                "longname": "",
+                "dozent": "Raab, Saffert",
+                "raum": "EMI110",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "WER",
+                "longname": "",
+                "dozent": "Hummich",
+                "raum": "EMI002",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "MFI1_VL",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI311",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "ET1_VL",
+                "longname": "",
+                "dozent": "Raab",
+                "raum": "EMI311",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "MFI1_Ue",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI013",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MFI1_VL",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI301",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MFI1_Ue",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "EMI301",
+                "startBlock": 2,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "MFI1_Ue_Z",
+                "longname": "",
+                "dozent": "Sissouno",
+                "raum": "nachAbsprache",
+                "startBlock": 7,
+                "endBlock": 7,
+                "notes": "Zusatz\u00fcbung"
+            },
+            {
+                "tag": 5,
+                "name": "PHY_Pr",
+                "longname": "",
+                "dozent": "H\u00f6\u00df, Schi\u00dflbauer",
+                "raum": "MBUTE10",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            }
+        ],
+        "EI 2": [
+            {
+                "tag": 1,
+                "name": "ET1_VL",
+                "longname": "",
+                "dozent": "Raab",
+                "raum": "EMI214",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "PHY_VL",
+                "longname": "",
+                "dozent": "Levi",
+                "raum": "EMI214",
+                "startBlock": 3,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MFI3_VL",
+                "longname": "",
+                "dozent": "Prinz",
+                "raum": "EMI013",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "ET1_Pr",
+                "longname": "",
+                "dozent": "Raab, Saffert",
+                "raum": "EMI110",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "WER",
+                "longname": "",
+                "dozent": "Hummich",
+                "raum": "EMI002",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MFI3_Ue",
+                "longname": "",
+                "dozent": "Prinz",
+                "raum": "EMI002",
+                "startBlock": 5,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "MFI3_VL",
+                "longname": "",
+                "dozent": "Prinz",
+                "raum": "EMI013",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "ET1_VL",
+                "longname": "",
+                "dozent": "Raab",
+                "raum": "EMI311",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "PHY_Pr",
+                "longname": "",
+                "dozent": "H\u00f6\u00df, Schi\u00dflbauer",
+                "raum": "MBUTE10",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            }
+        ],
+        "EI 3": [
+            {
+                "tag": 1,
+                "name": "AST",
+                "longname": "",
+                "dozent": "H\u00f6\u00df",
+                "raum": "EMI002",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "SDS",
+                "longname": "",
+                "dozent": "H\u00f6\u00df, Fuchs",
+                "raum": "EMI110",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MFI3_VL",
+                "longname": "",
+                "dozent": "Prinz",
+                "raum": "EMI013",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "ET3",
+                "longname": "",
+                "dozent": "S\u00f6llner",
+                "raum": "EMI102",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "INF2",
+                "longname": "",
+                "dozent": "Pirkl",
+                "raum": "MBUT224",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MFI3_Ue",
+                "longname": "",
+                "dozent": "Prinz",
+                "raum": "EMI002",
+                "startBlock": 5,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "MFI3_VL",
+                "longname": "",
+                "dozent": "Prinz",
+                "raum": "EMI013",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "INF2",
+                "longname": "",
+                "dozent": "Pirkl",
+                "raum": "MBUT224",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "PC",
+                "longname": "",
+                "dozent": "Frey, M\u00fcller",
+                "raum": "DC104",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "SE",
+                "longname": "",
+                "dozent": "S\u00f6llner",
+                "raum": "MBUT224",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "EBS1_VL",
+                "longname": "",
+                "dozent": "S\u00f6llner, Sch\u00f6ler-Niewiera",
+                "raum": "EMI113,EMI110",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "EBS1_Pr",
+                "longname": "",
+                "dozent": "S\u00f6llner, Sch\u00f6ler-Niewiera",
+                "raum": "EMI110",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "DIG_VL",
+                "longname": "",
+                "dozent": "Raab",
+                "raum": "EMI013",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "DIG_Pr",
+                "longname": "",
+                "dozent": "Raab, Saffert",
+                "raum": "EMI010",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            }
+        ],
+        "EI 4": [
+            {
+                "tag": 1,
+                "name": "AST",
+                "longname": "",
+                "dozent": "H\u00f6\u00df",
+                "raum": "EMI002",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 1,
+                "name": "SDS",
+                "longname": "",
+                "dozent": "H\u00f6\u00df, Fuchs",
+                "raum": "EMI110",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "ET3",
+                "longname": "",
+                "dozent": "S\u00f6llner",
+                "raum": "EMI102",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "INF2",
+                "longname": "",
+                "dozent": "Pirkl",
+                "raum": "MBUT224",
+                "startBlock": 4,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "INF2",
+                "longname": "",
+                "dozent": "Pirkl",
+                "raum": "MBUT224",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "EBS1_VL",
+                "longname": "",
+                "dozent": "S\u00f6llner, Sch\u00f6ler-Niewiera",
+                "raum": "EMI113,EMI110",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "EBS1_Pr",
+                "longname": "",
+                "dozent": "S\u00f6llner",
+                "raum": "EMI110",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "DIG_VL",
+                "longname": "",
+                "dozent": "Raab",
+                "raum": "EMI013",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "DIG_Pr",
+                "longname": "",
+                "dozent": "Raab, Saffert",
+                "raum": "EMI010",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            }
+        ],
+        "EI 7": [
+            {
+                "tag": 1,
+                "name": "RO",
+                "longname": "",
+                "dozent": "Wenk",
+                "raum": "MBUT221",
+                "startBlock": 3,
+                "endBlock": 4,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "BAS",
+                "longname": "",
+                "dozent": "Rebholz",
+                "raum": "EMI002",
+                "startBlock": 1,
+                "endBlock": 1,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "LE",
+                "longname": "",
+                "dozent": "Zatocil",
+                "raum": "EMI013",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 2,
+                "name": "MS",
+                "longname": "",
+                "dozent": "Zatocil",
+                "raum": "EMI013",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "OES",
+                "longname": "",
+                "dozent": "S\u00f6llner",
+                "raum": "EMI013",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 3,
+                "name": "ITC",
+                "longname": "",
+                "dozent": "Ortmann",
+                "raum": "EMI311",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "INFSEC",
+                "longname": "",
+                "dozent": "Hirsch",
+                "raum": "EMI102",
+                "startBlock": 2,
+                "endBlock": 3,
+                "notes": ""
+            },
+            {
+                "tag": 4,
+                "name": "GVT",
+                "longname": "",
+                "dozent": "Hommel",
+                "raum": "EMI102",
+                "startBlock": 4,
+                "endBlock": 5,
+                "notes": ""
+            },
+            {
+                "tag": 5,
+                "name": "DKT",
+                "longname": "",
+                "dozent": "Ortmann",
+                "raum": "EMI113",
+                "startBlock": 1,
+                "endBlock": 2,
+                "notes": ""
+            }
+        ]
+    }
+}

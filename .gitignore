@@ -1,0 +1,5 @@
+timetables.ics
+output.html
+venv/
+.idea/
+__pycache__
