@@ -11,10 +11,3 @@ class TimetableSerializer(serializers.Serializer):
     startBlock = serializers.IntegerField()
     endBlock = serializers.IntegerField()
     notes = serializers.CharField(max_length=500, required=False, allow_blank=True)
-
-from .models import Snippet
-
-class SnippetSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = Snippet
-        fields = '__all__'

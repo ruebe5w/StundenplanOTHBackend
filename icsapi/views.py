@@ -175,15 +175,5 @@ class CourseListView(APIView):
         response = HttpResponse(json.dumps(courseList), content_type="application/json")
         return response
 
-from rest_framework import viewsets
-from .models import Snippet
-from .serializers import SnippetSerializer
 
-class SnippetViewSet(viewsets.ModelViewSet):
-    """
-    This viewset automatically provides `list`, `create`, `retrieve`,
-    `update` and `destroy` actions.
-    """
-    queryset = Snippet.objects.all()
-    serializer_class = SnippetSerializer
 
