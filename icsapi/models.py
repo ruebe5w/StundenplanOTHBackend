@@ -19,3 +19,6 @@ class Module(models.Model):
     notes = models.CharField(max_length=500)
     timetable=models.ForeignKey(Timetable,on_delete=models.CASCADE)
 
+class Snippet(models.Model):
+    created = models.DateTimeField(auto_now_add=True)
+    title = models.CharField(max_length=100, blank=True, default='')
